@@ -1,4 +1,5 @@
 Overview
+
 Welcome to our Loan Default Prediction Web App – an interactive machine learning application designed for academic purposes in Applied Regression & Machine Learning. This application simulates a real-world loan system and predicts loan default amounts using comprehensive borrower history and financial behavior analysis.
 
 Our app provides hands-on experience with the complete machine learning pipeline, from data exploration to model deployment, making it an excellent educational tool for understanding practical ML applications in finance.
