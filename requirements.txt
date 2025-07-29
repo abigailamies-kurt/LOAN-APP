@@ -7,3 +7,4 @@ plotly
 Scikit-learn
 xgboost
 statsmodels
+reportlab
