@@ -253,6 +253,7 @@ def main():
                         evaluation = evaluate_model(model, X_eval, y, cv_folds)
 
                         evaluation_results[model_name] = {
+                            'model': model,  # Store the model itself
                             'rmse': evaluation['rmse'],
                             'r2': evaluation['r2'],
                             'y_pred': evaluation['y_pred'],
