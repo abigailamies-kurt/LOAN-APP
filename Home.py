@@ -323,7 +323,7 @@ def generate_sample_analytics():
 
 def main():
     # Define image paths
-    logo_path = "images/logo.jpg"
+    logo_path = "images/Logo.jpg"
     team_images = {
         "Bernardine Akorfa Gawu": "images/Bernardine.jpeg",
         "Abigail Amissah": "images/Abigail.jpeg",
